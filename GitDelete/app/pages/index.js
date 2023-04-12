@@ -9,6 +9,7 @@ function HomePage({Component, pageProps}) {
       <h1>
         Mon gars chako est l'ing
       </h1>
+      <Link to="/use-state">Aller à UseStatePage</Link>
       
       
       </Layout>

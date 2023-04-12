@@ -1,3 +1,8 @@
+import React from 'react';
+import { BrowserRouter as Router, Route } from 'react-router-dom';
+import UseStatePage from '../app/pages/UseStatePage';
+
+
 var createError = require('http-errors');
 var express = require('express');
 var path = require('path');
@@ -6,6 +11,7 @@ var logger = require('morgan');
 
 // ajouter les routess
 
+var UseStatePage = require('./routes/UseStatePage');
 var indexRouter = require('./routes/index');
 var usersRouter = require('./routes/users');
 var aboutRouter = require('./routes/about');
