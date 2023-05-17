@@ -59,6 +59,10 @@ Pour déployer l'application, suivez les étapes suivantes :
 
     npm run build
 
+**Lancez l'application en mode developpement :**
+    npm run dev 
+
+
 **Lancez l'application en mode production :**
 
     npm run serve

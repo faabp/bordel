@@ -25,5 +25,17 @@
     "autoprefixer": "^10.4.14",
     "postcss": "^8.4.21",
     "tailwindcss": "^3.3.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faabp/ece-webtech-gr02-08.git"
+    },
+    "keywords": [],
+    "author": "Helois Marre <heloismb@me.com> ",
+    "license": "ISC",
+    "bugs": {
+    "url": "https://github.com/faabp/ece-webtech-gr02-08/issues"
+    },
+    "homepage": "https://github.com/faabp/ece-webtech-gr02-08#readme"
 }
+

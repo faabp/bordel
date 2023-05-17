@@ -12,8 +12,8 @@ function HomePage({Component, pageProps}) {
       <meta name="description" content="C'est Mozart capitain jackson" />
       
         <div class="flex justify-center items-center h-screen">
-          <div class="w-1/2 h-1/2 bg-gray-300">
-            <img src="https://yard.media/wp-content/uploads/2020/09/leto-yard-alextrescool-14-1125x1406.jpg" />
+          <div class="w-1/2 h-1/2">
+            <img src="https://cdns-images.dzcdn.net/images/cover/1220f0569f189e1365438baeeed0e0e8/500x500.jpg" />
           </div>
         </div>
 
